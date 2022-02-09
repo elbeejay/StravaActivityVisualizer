@@ -9,6 +9,8 @@ Messy Python scripts to make a pretty visual using your Strava data
 
 ## This repository contains the codes used to create the above animation
 
+See the `requirements.txt` file for a list of the Python packages used in the included Python and Jupyter Notebook files.
+
 ### The gist of the process is the following:
 
 1. Bulk download your Strava data ([Strava article with instructions](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export)).
